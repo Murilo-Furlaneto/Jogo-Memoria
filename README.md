@@ -1,6 +1,6 @@
 # jogo_memoria
 
-A new Flutter project.
+Projeto desenvolvido pelo canal do Professor Diego Antunes com o intuito de realizar um jogo da memória sobre a série Round6, utilizando banco de dados Hive e como gerenciadores de estado o Mobx e Provider
 
 ## Getting Started
 
